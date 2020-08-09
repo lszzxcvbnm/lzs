@@ -7,5 +7,7 @@ public class Tsest01 {
             cxy=cxy+i;
         }
         System.out.println("H ello usz"+"cxy="+cxy);
+
+        int cv=0;
     }
 }
